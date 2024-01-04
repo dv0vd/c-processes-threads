@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\vd\source\repos\os322\os322\source.cpp(95): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  os322.vcxproj -> C:\Users\VD\source\repos\os322\Debug\os322.exe

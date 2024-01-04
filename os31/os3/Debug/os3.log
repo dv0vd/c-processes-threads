@@ -1,0 +1,3 @@
+﻿  Source.cpp
+LINK : warning LNK4076: invalid incremental status file 'C:\Users\VD\source\repos\os3\Debug\os3.ilk' (which will be deleted); linking nonincrementally
+  os3.vcxproj -> C:\Users\VD\source\repos\os3\Debug\os3.exe

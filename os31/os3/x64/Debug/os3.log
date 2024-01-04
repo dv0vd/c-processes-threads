@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\vd\source\repos\os3\os3\source.cpp(107): warning C4244: 'initializing': conversion from 'LRESULT' to 'DWORD', possible loss of data
+c:\users\vd\source\repos\os3\os3\source.cpp(139): warning C4244: 'initializing': conversion from 'LRESULT' to 'DWORD', possible loss of data
+c:\users\vd\source\repos\os3\os3\source.cpp(173): warning C4244: 'initializing': conversion from 'LRESULT' to 'DWORD', possible loss of data
+c:\users\vd\source\repos\os3\os3\source.cpp(177): error C2664: 'HWND CreateDialogParamA(HINSTANCE,LPCSTR,HWND,DLGPROC,LPARAM)': cannot convert argument 4 from 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'DLGPROC'
+  c:\users\vd\source\repos\os3\os3\source.cpp(177): note: None of the functions with this name in scope match the target type
+c:\users\vd\source\repos\os3\os3\source.cpp(330): error C2664: 'BOOL EnumProcessesInJob(HANDLE,ULONG_PTR *,DWORD,LPDWORD)': cannot convert argument 2 from 'DWORD [1024]' to 'ULONG_PTR *'
+  c:\users\vd\source\repos\os3\os3\source.cpp(330): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\vd\source\repos\os3\os3\source.cpp(332): error C2664: 'INT_PTR DialogBoxParamA(HINSTANCE,LPCSTR,HWND,DLGPROC,LPARAM)': cannot convert argument 4 from 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'DLGPROC'
+  c:\users\vd\source\repos\os3\os3\source.cpp(332): note: None of the functions with this name in scope match the target type
+c:\users\vd\source\repos\os3\os3\source.cpp(451): warning C4244: 'argument': conversion from 'WPARAM' to 'DWORD', possible loss of data
+c:\users\vd\source\repos\os3\os3\source.cpp(453): warning C4244: 'argument': conversion from 'WPARAM' to 'DWORD', possible loss of data
